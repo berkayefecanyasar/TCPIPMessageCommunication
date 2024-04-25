@@ -1,0 +1,38 @@
+C:\Users\krmbi\source\repos\BerkayTCPApp\bin\Debug\net7.0-windows\BerkayTCPApp.exe
+C:\Users\krmbi\source\repos\BerkayTCPApp\bin\Debug\net7.0-windows\BerkayTCPApp.deps.json
+C:\Users\krmbi\source\repos\BerkayTCPApp\bin\Debug\net7.0-windows\BerkayTCPApp.runtimeconfig.json
+C:\Users\krmbi\source\repos\BerkayTCPApp\bin\Debug\net7.0-windows\BerkayTCPApp.dll
+C:\Users\krmbi\source\repos\BerkayTCPApp\bin\Debug\net7.0-windows\BerkayTCPApp.pdb
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\BerkayTCPApp.Form1.resources
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\BerkayTCPApp.csproj.GenerateResource.cache
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\BerkayTCPApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\BerkayTCPApp.AssemblyInfoInputs.cache
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\BerkayTCPApp.AssemblyInfo.cs
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\BerkayTCPApp.csproj.CoreCompileInputs.cache
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\BerkayTCPApp.dll
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\refint\BerkayTCPApp.dll
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\BerkayTCPApp.pdb
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\BerkayTCPApp.genruntimeconfig.cache
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\ref\BerkayTCPApp.dll
+C:\Users\krmbi\source\repos\BerkayTCPApp\bin\Debug\net7.0-windows\SuperSimpleTcp.dll
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\BerkayTCPApp.csproj.AssemblyReference.cache
+C:\Users\krmbi\source\repos\BerkayTCPApp\obj\Debug\net7.0-windows\BerkayTC.AFEA0DF0.Up2Date
+\\Mac\Home\Downloads\BerkayTCPApp 2\bin\Debug\net7.0-windows\BerkayTCPApp.exe
+\\Mac\Home\Downloads\BerkayTCPApp 2\bin\Debug\net7.0-windows\BerkayTCPApp.deps.json
+\\Mac\Home\Downloads\BerkayTCPApp 2\bin\Debug\net7.0-windows\BerkayTCPApp.runtimeconfig.json
+\\Mac\Home\Downloads\BerkayTCPApp 2\bin\Debug\net7.0-windows\BerkayTCPApp.dll
+\\Mac\Home\Downloads\BerkayTCPApp 2\bin\Debug\net7.0-windows\BerkayTCPApp.pdb
+\\Mac\Home\Downloads\BerkayTCPApp 2\bin\Debug\net7.0-windows\SuperSimpleTcp.dll
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\BerkayTCPApp.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\BerkayTCPApp.Form1.resources
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\BerkayTCPApp.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\BerkayTCPApp.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\BerkayTCPApp.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\BerkayTCPApp.AssemblyInfo.cs
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\BerkayTCPApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\BerkayTC.AFEA0DF0.Up2Date
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\BerkayTCPApp.dll
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\refint\BerkayTCPApp.dll
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\BerkayTCPApp.pdb
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\BerkayTCPApp.genruntimeconfig.cache
+\\Mac\Home\Downloads\BerkayTCPApp 2\obj\Debug\net7.0-windows\ref\BerkayTCPApp.dll

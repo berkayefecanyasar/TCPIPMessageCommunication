@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+7vpBObkK9CFxzhO5/bnsG0HIj8uc9oCCJwRc62oaPoofnX2fZ5Eil4UBZur1SnNfGnt0zm5VTei4YOlJYqDQ==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Downloads\\BerkayTCPApp 2\\BerkayTCPApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berkayyasar\\.nuget\\packages\\supersimpletcp\\3.0.14\\supersimpletcp.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
